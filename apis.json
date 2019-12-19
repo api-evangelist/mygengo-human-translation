@@ -1,0 +1,76 @@
+{
+    "name": "myGengo Human Translation",
+    "description": "People-powered translation at scale. Gengo provides fast, affordable and quality translations by native speakers located worldwide.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/442-mygengo-human-translation.jpg",
+    "tags": [
+        "cms",
+        "have api",
+        "human",
+        "languages",
+        "localization",
+        "translations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mygengo-human-translation\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "myGengo Human Translation",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/442-mygengo-human-translation.jpg",
+            "humanURL": "http:\/\/mygengo.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mygengo-human-translation-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.gengo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.gengo.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/gengo"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/gengo.com\/developers\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@gengo.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/gengo"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/gengo.com\/pricing-languages\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GengoIt"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mygengo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/mygengo.com"
+        }
+    ]
+}
